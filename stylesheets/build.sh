@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sass style.scss >style.css
+npx sass style.scss >style.css
